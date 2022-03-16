@@ -1,10 +1,9 @@
-import Navbar from "components/Navbar";
+
 import ProductCard from "components/Navbar/ProductCard";
 
 const Catalog = () => {
   return(
-      <>
-      <Navbar />
+      
            <div className="container my-4">
              <div className="row">
             
@@ -30,7 +29,7 @@ const Catalog = () => {
            
             </div>
            </div>
-      </>
+      
  
     );
 }
