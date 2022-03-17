@@ -58,11 +58,6 @@
    
     .home-image-container svg{
         width: 506px;
-        
-    }
-
-    .home-content-container button{
-        width: 506px;
     }
 
     @media(min-width: 768px){
@@ -111,7 +106,7 @@
     .home-card{
         flex-direction: row;
         justify-content: space-around;
-        padding: calc(((85vh -  480px) / 2) - 60px) 0 ;
+        padding: calc(((85vh -  480px) / 2) - 90px) 0 ;
 
     }
 
